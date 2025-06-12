@@ -1,0 +1,16 @@
+   15  git rm --cached testing.py
+   16  git add .
+   17  git status
+   18  clear
+   19  git rm --cached testing.py
+   20  git add testing.py
+   21  git commit
+   22  git commit -m
+   23  git commit -m""
+   24  clear
+   25  git rm --cached testing.py
+   26  git add testing.py
+   27  git status
+   28  git add .
+   29  git commit
+   30  clear
