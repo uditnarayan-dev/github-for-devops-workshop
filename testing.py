@@ -1,2 +1,1 @@
-print("Hello Dosto kya haal chal")
-print("Hello Dosto kya haal chal")
+print("Updated code for second push")
