@@ -13,4 +13,4 @@
    27  git status
    28  git add .
    29  git commit
-   30  clear
+   30  clear cc
