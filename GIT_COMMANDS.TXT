@@ -14,3 +14,5 @@
    28  git add .
    29  git commit
    30  clear cc
+
+   second push
